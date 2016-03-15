@@ -1,9 +1,11 @@
 ---
 layout:     post
 title:      "Test Post 1"
+subtitle:   "testing"
 date:       2016-01-11 9:52:00
 author:     "joshuajharris"
 header-img: "img/post-bg-06.jpg"
+preview-img: "img/post-bg-06.jpg"
 ---
 
 <p>Text here</p>

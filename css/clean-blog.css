@@ -4,6 +4,14 @@
  * Licensed under Apache 2.0 (https://github.com/IronSummitMedia/startbootstrap/blob/gh-pages/LICENSE)
  */
 
+.post-preview-img {
+    width: 100%;
+}
+
+.highlighted {
+    background-color: rgba(0,0,0,.5);
+}
+
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 20px;
