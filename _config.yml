@@ -3,7 +3,7 @@ title: Joshua J Harris
 header-img: img/home-bg.jpg
 email: joshua.jharris13@gmail.com
 description: "Where my thoughts live"
-baseurl: ""
+baseurl: "/blog"
 url: "http://joshuajharris.com"
 img: "https://raw.githubusercontent.com/joshuajharris/joshuajharris.github.io/master/img/meta-image.jpg"
 twitter_username: Joshua_J_Harris
