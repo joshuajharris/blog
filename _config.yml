@@ -12,7 +12,7 @@ linkedin_username: joshuajh
 
 # Build settings
 markdown: kramdown
-highlighter: rogue
+highlighter: rouge
 permalink: pretty
 gems: [jekyll-paginate]
 paginate: 5
